@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marouananouar
 - 👀 I’m interested in AI and Ethical Hacking.
-- 🌱 I’m currently learning Machine learning and web development.
+- 🌱 I’m currently learning Cyber Security and Back-End Development.
 - 📫 How to reach me for my : www.instagram/marouan_anouar
 
 <!---

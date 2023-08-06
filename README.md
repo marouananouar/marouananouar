@@ -33,6 +33,12 @@
 <p align="left">
 <a href="https://linkedin.com/marouananouar" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2530/PNG/96/linkedin_button_icon_151847.png" alt="marouan_anouar" height="25" width="90" /></a></p>
 
+<h3 align="left">Building Design Tools:</h3>
+<p align="left">
+<img src="https://cdn.icon-icons.com/icons2/3053/PNG/96/archicad_macos_bigsur_icon_190381.png" alt="Archicad" width="40" height="40"/>
+<img src="https://www.f3df.com/wp-content/uploads/2023/03/twinmotion-product-icon-400.png" alt="Twinmotin" width="40" height="40"/>
+<img src="https://cdn.icon-icons.com/icons2/1088/PNG/96/1485282157-adobe-photoshop-raster-graphics-editor-cc-creative-cloud_78285.png" alt="photoshop" width="40" height="40"/></p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">

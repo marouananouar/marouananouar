@@ -124,8 +124,8 @@
 <hr>
 <h3 align="left">DataBases :</h3>
 <p align="left">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" alt="mongoDB" width="40" height="40"/>
-<img src="https://1000logos.net/wp-content/uploads/2020/08/PostgreSQL-Logo.png" alt="postgre SQL" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" alt="mongoDB" width="60" height="40"/>
+<img src="https://1000logos.net/wp-content/uploads/2020/08/PostgreSQL-Logo.png" alt="postgre SQL" width="60" height="50"/>
 <img src="https://1000logos.net/wp-content/uploads/2021/04/Oracle-logo.png" alt="oracle" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/fr/thumb/6/62/MySQL.svg/1200px-MySQL.svg.png" alt="Mysql" width="40" height="40"/>
 <hr> 

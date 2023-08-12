@@ -106,6 +106,7 @@
 
 <!----    Start Back-end Skils  ---->
 <h3 align="center">Where Start Learning BACK-END Developement ?"</h3>
+<hr> 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" alt="Javascript" width="40" height="40"/>
@@ -124,15 +125,15 @@
 <hr>
 <h3 align="left">DataBases :</h3>
 <p align="left">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" alt="mongoDB" width="60" height="40"/>
-<img src="https://1000logos.net/wp-content/uploads/2020/08/PostgreSQL-Logo.png" alt="postgre SQL" width="60" height="50"/>
-<img src="https://1000logos.net/wp-content/uploads/2021/04/Oracle-logo.png" alt="oracle" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" alt="mongoDB" width="50" height="40"/>
+<img src="https://1000logos.net/wp-content/uploads/2020/08/PostgreSQL-Logo.png" alt="postgre SQL" width="75" height="60"/>
+<img src="https://1000logos.net/wp-content/uploads/2021/04/Oracle-logo.png" alt="oracle" width="50" height="60"/>
 <img src="https://upload.wikimedia.org/wikipedia/fr/thumb/6/62/MySQL.svg/1200px-MySQL.svg.png" alt="Mysql" width="40" height="40"/>
 <hr> 
 <h3 align="left">APIs :</h3>
 <p align="left">
 <img src="https://www.ictshore.com/wp-content/uploads/2018/08/sfw0002-01-REST_Architecture.png" alt="REST" width="40" height="40"/>
-<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/json_logo_icon_168490.png" alt="JSON" width="40" height="40"/>
+<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/json_logo_icon_168490.png" alt="JSON" width="40" height="50"/>
 <img src="https://xpertlab.com/wp-content/uploads/2020/12/icon-soap.png" alt="SOAP" width="40" height="40"/>
 <img src="https://camo.githubusercontent.com/a4d181930f0d570c168b1eed0ebf46f577891e93047afd1881064b638edf095e/68747470733a2f2f6873746f2e6f72672f776562742f6c6a2f73382f65762f6c6a7338657673687a6a7675686b6d6a5f333235757179637675382e706e67" alt="RPC" width="40" height="40"/>
 <hr>
@@ -143,7 +144,9 @@
 <img src="https://www.femto-st.fr/sites/default/files/styles/full_width/public/articles/docs/cloud-computing_0.png?itok=PExVfEfE" alt="Cloud computing" width="40" height="40"/>
 <img src="https://www.deviqa.com/static/images/posts/IsJMeterTheBestOptionForEfficientWebTesting/IsJMeterTheBestOptionForEfficientWebTesting01.jpg?webp" alt="Testing" width="40" height="40"/>
 <hr>
-<p align="center"><img src="https://github.com/marouananouar/marouananouar/assets/82327262/320e023e-8ef7-4d0f-88bb-6e04bec0ddbc" alt="RoadMap" /></p>
+
+<p align="center"><img src="https://github.com/marouananouar/marouananouar/assets/82327262/320e023e-8ef7-4d0f-88bb-6e04bec0ddbc" alt="RoadMap" />
+<img src="https://thumbs.gfycat.com/BoldFrequentBlackfly-size_restricted.gif"></p>
 <hr>
 <!----    End Back-end Skils  ---->
 
@@ -154,7 +157,8 @@
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=blackhorseteams&theme=" alt="blackhorseteams" /></p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h3 align="center">Statistics</h3>
 <div align="center">
 <a href="https://github.com/blackhorseteams">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=blackhorseteams&theme=2077" height="180em" />

@@ -143,9 +143,7 @@
 <img src="https://www.femto-st.fr/sites/default/files/styles/full_width/public/articles/docs/cloud-computing_0.png?itok=PExVfEfE" alt="Cloud computing" width="40" height="40"/>
 <img src="https://www.deviqa.com/static/images/posts/IsJMeterTheBestOptionForEfficientWebTesting/IsJMeterTheBestOptionForEfficientWebTesting01.jpg?webp" alt="Testing" width="40" height="40"/>
 <hr>
-<p align="center"> <a href="https://github.com/marouananouar/marouananouar/assets/82327262/320e023e-8ef7-4d0f-88bb-6e04bec0ddbc" alt="RoadMap" /></a> </p>
-![Screenshot from 2023-08-12 17-26-12](https://github.com/marouananouar/marouananouar/assets/82327262/320e023e-8ef7-4d0f-88bb-6e04bec0ddbc)
-
+<p align="center"><img src="https://github.com/marouananouar/marouananouar/assets/82327262/320e023e-8ef7-4d0f-88bb-6e04bec0ddbc" alt="RoadMap" /></p>
 <hr>
 <!----    End Back-end Skils  ---->
 

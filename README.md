@@ -104,6 +104,47 @@
 <hr> 
 <!----    END Cybersecurity Skils  ---->
 
+<!----    Start Back-end Skils  ---->
+<h3 align="center">Where Start Learning BACK-END Developement ?"</h3>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" alt="Javascript" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="Python" width="40" height="40"/>
+<img src="https://assets.stickpng.com/images/58480979cef1014c0b5e4901.png" alt="JAVA" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" alt="PHP" width="40" height="40"/>
+</p>
+<hr>
+<h3 align="left">Frameworks :</h3>
+<p align="left">
+<img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png" alt="Django" width="40" height="40"/>
+<img src="https://seeklogo.com/images/N/next-js-logo-7929BCD36F-seeklogo.com.png" alt="next.js" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Spring_Framework_Logo_2018.svg/1200px-Spring_Framework_Logo_2018.svg.png" alt="springboot" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" alt="laravel" width="40" height="40"/>
+</p>
+<hr>
+<h3 align="left">DataBases :</h3>
+<p align="left">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" alt="mongoDB" width="40" height="40"/>
+<img src="https://1000logos.net/wp-content/uploads/2020/08/PostgreSQL-Logo.png" alt="postgre SQL" width="40" height="40"/>
+<img src="https://1000logos.net/wp-content/uploads/2021/04/Oracle-logo.png" alt="oracle" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/fr/thumb/6/62/MySQL.svg/1200px-MySQL.svg.png" alt="Mysql" width="40" height="40"/>
+<hr> 
+<h3 align="left">APIs :</h3>
+<p align="left">
+<img src="https://www.ictshore.com/wp-content/uploads/2018/08/sfw0002-01-REST_Architecture.png" alt="REST" width="40" height="40"/>
+<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/json_logo_icon_168490.png" alt="JSON" width="40" height="40"/>
+<img src="https://xpertlab.com/wp-content/uploads/2020/12/icon-soap.png" alt="SOAP" width="40" height="40"/>
+<img src="https://camo.githubusercontent.com/a4d181930f0d570c168b1eed0ebf46f577891e93047afd1881064b638edf095e/68747470733a2f2f6873746f2e6f72672f776562742f6c6a2f73382f65762f6c6a7338657673687a6a7675686b6d6a5f333235757179637675382e706e67" alt="RPC" width="40" height="40"/>
+<hr>
+<h3 align="left">Tools :</h3>
+<p align="left">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="40" height="40"/>
+<img src" alt="git-github" width="40" height="40"/>
+<img src="" alt="Cloud computing" width="40" height="40"/>
+<img src="" alt="Testing" width="40" height="40"/>
+  
+<!----    End Back-end Skils  ---->
+
 <h3 align="left">Stars</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackhorseteams&layout=compact&theme=" alt=blackhorseteams />
 

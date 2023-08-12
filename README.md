@@ -143,8 +143,7 @@
 <img src="https://www.femto-st.fr/sites/default/files/styles/full_width/public/articles/docs/cloud-computing_0.png?itok=PExVfEfE" alt="Cloud computing" width="40" height="40"/>
 <img src="https://www.deviqa.com/static/images/posts/IsJMeterTheBestOptionForEfficientWebTesting/IsJMeterTheBestOptionForEfficientWebTesting01.jpg?webp" alt="Testing" width="40" height="40"/>
 <hr>
-  [Brown Beige Playful Doodle Design Thinking Graph.pdf](https://github.com/marouananouar/marouananouar/files/12327792/Brown.Beige.Playful.Doodle.Design.Thinking.Graph.pdf)
-
+<p align="center"> <a href="https://github.com/marouananouar/marouananouar/assets/82327262/4152ccf5-247e-4bd5-b9d5-be71eee8d25e" alt="RoadMap" /></a> </p>
 <hr>
 <!----    End Back-end Skils  ---->
 

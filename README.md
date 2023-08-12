@@ -110,7 +110,7 @@
 <p align="left">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" alt="Javascript" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="Python" width="40" height="40"/>
-<img src="https://assets.stickpng.com/images/58480979cef1014c0b5e4901.png" alt="JAVA" width="40" height="40"/>
+<img src="https://logos-download.com/wp-content/uploads/2016/10/Java_logo_icon.png" alt="JAVA" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" alt="PHP" width="40" height="40"/>
 </p>
 <hr>

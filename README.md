@@ -154,24 +154,24 @@
   <img src="https://github.com/marouananouar/marouananouar/assets/82327262/320e023e-8ef7-4d0f-88bb-6e04bec0ddbc" alt="RoadMap" />
 <img src="https://media4.giphy.com/media/EC1gl2A5oplKMAorkT/200w.webp?cid=ecf05e47dmuglxd82p89bszzcgznttrnihe48qgomuxghrpv&ep=v1_gifs_search&rid=200w.webp&ct=g" width='100%'></p>
 <!----    End Back-end Skils  ---->
-<h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackhorseteams&layout=compact&theme=" alt=blackhorseteams />
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=blackhorseteams&show_icons=true&locale=en&theme=" alt="blackhorseteams" /></p>
+</div><h3 align="left">Stars</h3>
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marouananouar&layout=compact&theme=" alt=marouananouar />
 
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=blackhorseteams&theme=" alt="blackhorseteams" /></p>
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=marouananouar&show_icons=true&locale=en&theme=" alt="marouananouar" /></p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h3 align="center">Statistics</h3>
+<p align="center" align="center"><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=marouananouar&theme=" alt="marouananouar" /></p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
-<a href="https://github.com/blackhorseteams">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=blackhorseteams&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=blackhorseteams&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=blackhorseteams&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=blackhorseteams&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=blackhorseteams&theme=2077" height="180em" />
+<a href="https://github.com/marouananouar">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=marouananouar&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=marouananouar&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=marouananouar&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=marouananouar&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marouananouar&theme=2077" height="180em" />
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=blackhorseteams&theme=default"/>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=marouananouar&theme=default"/>
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />

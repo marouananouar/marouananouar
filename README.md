@@ -102,7 +102,7 @@
 </p>
 <p align="center">
   <img src="https://media4.giphy.com/media/EC1gl2A5oplKMAorkT/200w.webp?cid=ecf05e47dmuglxd82p89bszzcgznttrnihe48qgomuxghrpv&ep=v1_gifs_search&rid=200w.webp&ct=g" width='100%'>
-  <img src="https://github.com/marouananouar/marouananouar/assets/82327262/f9d31945-71f2-4570-9f67-f29cf21c9361" alt="RoadMap" />
+  <img src="https://github.com/ninjasquadagency/ninjasquadagency/assets/129605548/1a8ea7c0-7718-45df-811c-164de4f88760" alt="RoadMap" />
 <img src="https://media4.giphy.com/media/EC1gl2A5oplKMAorkT/200w.webp?cid=ecf05e47dmuglxd82p89bszzcgznttrnihe48qgomuxghrpv&ep=v1_gifs_search&rid=200w.webp&ct=g" width='100%'>
 </p>
 
@@ -151,7 +151,7 @@
 
 <p align="center">
   <img src="https://media4.giphy.com/media/EC1gl2A5oplKMAorkT/200w.webp?cid=ecf05e47dmuglxd82p89bszzcgznttrnihe48qgomuxghrpv&ep=v1_gifs_search&rid=200w.webp&ct=g" width='100%'>
-  <img src="https://github.com/marouananouar/marouananouar/assets/82327262/320e023e-8ef7-4d0f-88bb-6e04bec0ddbc" alt="RoadMap" />
+  <img src="https://github.com/ninjasquadagency/ninjasquadagency/assets/129605548/c655d543-2ff9-4c0a-9cbc-d530a497118b" alt="RoadMap" />
 <img src="https://media4.giphy.com/media/EC1gl2A5oplKMAorkT/200w.webp?cid=ecf05e47dmuglxd82p89bszzcgznttrnihe48qgomuxghrpv&ep=v1_gifs_search&rid=200w.webp&ct=g" width='100%'></p>
 <!----    End Back-end Skils  ---->
 

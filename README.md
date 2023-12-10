@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **lesaffaires8@gmail.com**
 
-- 📄 Know about my experiences [https://marouananouar.github.io/MYSpace/](https://marouananouar.github.io/MYSpace/)
+- 📄 Know about my experiences [https://bit.ly/Marouan_Anouar)
 
 - ⚡ Fun fact **I Think I am Funny**
 

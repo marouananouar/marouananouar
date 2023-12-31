@@ -18,7 +18,7 @@
 
 - 📄 Know about my experiences [https://bit.ly/Marouan_Anouar)
 
-- NinjaSquad App : https://marouananouar.github.io/landingpage01/
+- 📱 NinjaSquad App : https://marouananouar.github.io/landingpage01/
 
 - ⚡ Fun fact **I Think I am Funny**
 

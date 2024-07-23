@@ -14,11 +14,7 @@
 
 - 💬 Ask me about **Anythings**
 
-- 📫 How to reach me **lesaffaires8@gmail.com**
-
 - 📄 Know about my experiences [https://bit.ly/Marouan_Anouar)
-
-- 📱 NinjaSquad App : https://ninjasquadspace.github.io/landingpage
 
 - ⚡ Fun fact **I Think I am Funny**
 

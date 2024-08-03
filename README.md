@@ -10,11 +10,9 @@
 
 - 🌱 I’m currently learning **CyberSecurity, Back-End Developement, Mobile App Development**
   
-- 🙃 My RoaMap To Learn if You Want **https://miro.com/app/board/uXjVM8JCyGs=/?share_link_id=71284518247**
+- 🙃 My Database To Learn Together if You Want **https://bit.ly/MindMap2024**
 
 - 💬 Ask me about **Anythings**
-
-- 📄 Know about my experiences [https://bit.ly/Marouan_Anouar)
 
 - ⚡ Fun fact **I Think I am Funny**
 

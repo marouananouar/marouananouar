@@ -12,6 +12,8 @@
   
 - 🙃 My Database To Learn Together if You Want **https://bit.ly/MindMap2024**
 
+- 🙃 My Space **https://linktr.ee/marouananouar**
+
 - 💬 Ask me about **Anythings**
 
 - ⚡ Fun fact **I Think I am Funny**

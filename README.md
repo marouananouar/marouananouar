@@ -12,7 +12,7 @@
   
 - 🙃 My Database To Learn Together if You Want **https://bit.ly/MindMap2024**
 
-- 🙃 My Space **https://linktr.ee/marouananouar**
+- 🙃 My Space **https://bit.ly/deb_space**
 
 - 💬 Ask me about **Anythings**
 
